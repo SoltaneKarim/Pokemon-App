@@ -1,0 +1,19 @@
+{
+  "name": "rbktnx-technical-assessment",
+  "version": "1.0.0",
+  "description": "Ready to put your skills to the test and have some full-stack hacking fun? This assessment is like a day long solo sprint where you get to build a full stack JavaScript application using the skills and technologies you've worked with during the first half of the course. Expect to reinforce concepts and techniques you are familiar with and also to learn some new content.",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackreactor/rbktnX-technical-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackreactor/rbktnX-technical-assessment/issues"
+  },
+  "homepage": "https://github.com/hackreactor/rbktnX-technical-assessment#readme"
+}
